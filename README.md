@@ -13,6 +13,6 @@ for the TM4C123G Tiva microcontroller and uses:
 Enjoy!
 
 
-Authors: Luke Roeven (ljr83)
-          Anahita Piri (api48)
-          Maggie Booker (meb139)
+Authors: Luke Roeven
+          Anahita Piri
+          Maggie Booker
